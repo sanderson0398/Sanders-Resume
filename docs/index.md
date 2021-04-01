@@ -6,7 +6,7 @@ title: Erik Sanders Resume
 Software and Machine Learning Developer
 
 <div id="webaddress">
-<a href="ecsander0@gmail.com">ecsander0@gmail.com</a>
+<a href="mailto:ecsander0@gmail.com">ecsander0@gmail.com</a>
 | <a href="https://www.linkedin.com/in/ecsander0/">LinkedIn</a>
 | <a href="https://github.com/ecSanders">GitHub</a>
 </div>
