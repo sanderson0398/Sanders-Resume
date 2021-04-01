@@ -30,11 +30,11 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `September 2020 - Current`
 __Society of Artificial Intelligence__, Rexburg, ID
 
-- Developed and applied concepts of supervised machine learning. 
+- Applied concepts (what concepts? RNN ect) supervised machine learning. 
 - Used Github and Visual Studio Code as resources to develop and communicate for group collaboration
 - Gained technical teamwork experience along with Github proficiency
 
-### Work Experience
+### Experience
 
 `September 2020 - Current`
 __Juni Learning__, Senior Computer Science Instructor
@@ -43,19 +43,18 @@ __Juni Learning__, Senior Computer Science Instructor
 - Used the Juni Learning IDE and course curriculum to plan and teach students
 - Acquired one-on-one instructing experience explaining complex concepts
 
+`2020 - Current`
+
+__Computer Science Tutor__, Brigham Young University - Idaho
+- Helped other students in the copmuter science curriculum understand and solve complex problems.
 
 `November 2020 - Current`
 __Harbor Frieght Tools__, Logistics Associate
 
 - Perform inventory audits, scans, reporting, and replenishment.
-- Uses Chameleon (inventory software) to create quality reports and assist in measuring accuracy.
+- Created reports with Chameleon (inventory software) to measure accuracy.
 
-## Service and Work History
-
-`2025-2027`
-
-__Computer Science Tutor__, Brigham Young University - Idaho
-- Helped other students in the copmuter science curriculum understand and solve complex problems.
+## Service 
 
 `August 2017 - September 2019`
 __Missionary__, Navajo Nation - New Mexico and Arizona
