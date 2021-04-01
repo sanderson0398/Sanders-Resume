@@ -7,7 +7,6 @@ Software and Machine Learning Developer
 
 <div id="webaddress">
 <a href="ecsander0@gmail.com">ecsander0@gmail.com</a>
-| <a href="TODO">TODO</a>
 | <a href="https://www.linkedin.com/in/ecsander0/">LinkedIn</a>
 | <a href="https://github.com/ecSanders">GitHub</a>
 </div>
@@ -32,25 +31,24 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __Society of Artificial Intelligence__, Rexburg, ID
 
 - Developed and applied concepts of supervised machine learning. 
-- Collaborated with peers to create an OCR reciept scrapper.
-- TODO
+- Used Github and Visual Studio Code as resources to develop and communicate for group collaboration
+- Gained technical teamwork experience along with Github proficiency
 
 ### Work Experience
 
 `September 2020 - Current`
 __Juni Learning__, Senior Computer Science Instructor
 
-- Instruct students in beginner (data types) through advanced (recursion/big O notation) computer science topics in Javascript, C++ , and Python. 
-- Provide detailed analysis reports tracking students progress, practical understanding, competencies, struggles, and individual tailored goals.
-- Prepare course material specific to the students needs to optimize learning, growth, and development in algorithmic thinking and technical skills.
+- Instruct 10 + students on the fundamentals and the advanced topics in Javascript, C++, and Python
+- Used the Juni Learning IDE and course curriculum to plan and teach students
+- Acquired one-on-one instructing experience explaining complex concepts
 
 
 `November 2020 - Current`
 __Harbor Frieght Tools__, Logistics Associate
 
-- Coordinates with team to maximize time and space efficiency inside of the warehouse.
-- Performs inventory quality audits to maximizes store sales and productivity.
-- Collects product from warehouse and distributes product across the sales floor.
+- Perform inventory audits, scans, reporting, and replenishment.
+- Uses Chameleon (inventory software) to create quality reports and assist in measuring accuracy.
 
 ## Service and Work History
 
