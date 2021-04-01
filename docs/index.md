@@ -1,89 +1,76 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Erik Sanders Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Erik Sanders
+Software and Machine Learning Developer
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="ecsander0@gmail.com">ecsander0@gmail.com</a>
+| <a href="TODO">TODO</a>
+| <a href="https://www.linkedin.com/in/ecsander0/">LinkedIn</a>
+| <a href="https://github.com/ecSanders">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- **Major:** Computer Science
+- **Minor:** Mathematics
+- **GPA:** 3.55
 
 
 ## Related Experience
 
-### Internships
+### Societies
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`September 2020 - Current`
+__Society of Artificial Intelligence__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Developed and applied concepts of supervised machine learning. 
+- Collaborated with peers to create an OCR reciept scrapper.
+- TODO
 
-### Data Science Lead
+### Work Experience
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`September 2020 - Current`
+__Juni Learning__, Senior Computer Science Instructor
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Instruct students in beginner (data types) through advanced (recursion/big O notation) computer science topics in Javascript, C++ , and Python. 
+- Provide detailed analysis reports tracking students progress, practical understanding, competencies, struggles, and individual tailored goals.
+- Prepare course material specific to the students needs to optimize learning, growth, and development in algorithmic thinking and technical skills.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`November 2020 - Current`
+__Harbor Frieght Tools__, Logistics Associate
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Coordinates with team to maximize time and space efficiency inside of the warehouse.
+- Performs inventory quality audits to maximizes store sales and productivity.
+- Collects product from warehouse and distributes product across the sales floor.
 
 ## Service and Work History
 
 `2025-2027`
-__Math Tutor__, LDSBC
 
+__Computer Science Tutor__, Brigham Young University - Idaho
+- Helped other students in the copmuter science curriculum understand and solve complex problems.
 
-`2023-2025`
-__Service Missionary__, South Africa
+`August 2017 - September 2019`
+__Missionary__, Navajo Nation - New Mexico and Arizona
+
+- Applied conflict management and communication skills toward de-escalating local conflicts.
+- Educated people on important skills, including personal sustainability and financial stability.
+- Proselytized faith by giving talks, door-to-door proselyting and providing labor.
+- Oversaw and lead 4 other groups of missionaries to maximize efficiency of time and resources including personal growth in faith.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 25 -->
 
 
